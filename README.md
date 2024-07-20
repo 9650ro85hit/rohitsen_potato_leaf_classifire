@@ -23,17 +23,16 @@ Step-by-step instructions on how to set up the environment and install the neces
 
 ```bash
 # Clone the repository
-git clone [ [https://github.com/username/repository-name.git](https://github.com/9650ro85hit/rohitsen_potato_leaf_classifire.git)](https://github.com/9650ro85hit/rohitsen_potato_leaf_classifire.git)
-
-# Navigate into the project directory
+git clone https://github.com/username/repository-name.git
 cd repository-name
 
 # Create a virtual environment (optional but recommended)
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
-# Install required packages
+# Install required packagess
 pip install -r requirements.txt
+
 
 
 ## run
@@ -48,6 +47,6 @@ You will get User Interface like ![User Interface](leaf_classi_ui.PNG)
 
 ## You can See the results  with videos
 
-[Videos](WhatsApp Video 2024-07-20 at 11.52.32 AM.mp4)
+[Contribution guidelines for this project](https://github.com/9650ro85hit/rohitsen_potato_leaf_classifire/WhatsApp%20Video%202024-07-20%20at%2011.52.32%20AM.mp4)
 
 
