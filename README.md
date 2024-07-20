@@ -41,12 +41,12 @@ After installation of all nessesary librearies..
 Run steamlit run main.py in terminal.
 You will get User Interface like ![User Interface](leaf_classi_ui.PNG)
 ```
-#Upload an Image and press predict button to see the result..
+# Upload an Image and press predict button to see the result..
 
 
 [![User Interface](leaf_classi_ui.PNG)](leaf_classi_ui.PNG)
 
 ## You can See the results  with videos
 
-[![Video Thumbnail](leaf_classi_ui.PNG)](WhatsApp Video 2024-07-20 at 11.52.32 AM.mp4)
+![Video Thumbnail](WhatsApp Video 2024-07-20 at 11.52.32 AM.mp4)
 
