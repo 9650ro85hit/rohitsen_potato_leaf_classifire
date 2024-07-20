@@ -40,8 +40,8 @@ pip install -r requirements.txt
 After installation of all nessesary librearies..
 Run steamlit run main.py in terminal.
 You will get User Interface like ![User Interface](leaf_classi_ui.PNG)
-```bash
-Upload an Image and press predict button to see the result..
+```
+#Upload an Image and press predict button to see the result..
 
 
 [![User Interface](leaf_classi_ui.PNG)](leaf_classi_ui.PNG)
