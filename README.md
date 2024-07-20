@@ -23,7 +23,7 @@ Step-by-step instructions on how to set up the environment and install the neces
 
 ```bash
 # Clone the repository
-git clone [ [https://github.com/username/repository-name.git](https://github.com/9650ro85hit/age_gender_detector.git)](https://github.com/9650ro85hit/rohitsen_potato_leaf_classifire.git)
+git clone [ [https://github.com/username/repository-name.git](https://github.com/9650ro85hit/rohitsen_potato_leaf_classifire.git)](https://github.com/9650ro85hit/rohitsen_potato_leaf_classifire.git)
 
 # Navigate into the project directory
 cd repository-name
@@ -48,5 +48,6 @@ You will get User Interface like ![User Interface](leaf_classi_ui.PNG)
 
 ## You can See the results  with videos
 
-![Video Thumbnail](WhatsApp Video 2024-07-20 at 11.52.32 AM.mp4)
+[![Video Thumbnail](leaf_classi_ui.PNG)](WhatsApp Video 2024-07-20 at 11.52.32 AM.mp4)
+
 
