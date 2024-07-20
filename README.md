@@ -12,9 +12,9 @@ Potato Leaf Classifire
 ## Overview
 The Potato Leaf Classifier is a deep learning project designed to identify and classify potato leaf diseases. This model helps in detecting the following classes:
 
-Early Blight: A common potato disease caused by the fungus Alternaria solani.
-Late Blight: A serious disease of potatoes and tomatoes caused by the oomycete Phytophthora infestans.
-Healthy: Leaves without any visible disease symptoms.
+Early Blight: A common potato disease caused by the fungus Alternaria solani.<br>
+Late Blight: A serious disease of potatoes and tomatoes caused by the oomycete Phytophthora infestans.<br>
+Healthy: Leaves without any visible disease symptoms.<br>
 By accurately classifying these conditions, the model aims to aid farmers and agricultural experts in taking timely action to prevent crop damage.
 
 ## Installation
