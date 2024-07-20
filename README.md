@@ -48,6 +48,6 @@ You will get User Interface like ![User Interface](leaf_classi_ui.PNG)
 
 ## You can See the results  with videos
 
-[![Video Thumbnail](leaf_classi_ui.PNG)](WhatsApp Video 2024-07-20 at 11.52.32 AM.mp4)
+[Videos](WhatsApp Video 2024-07-20 at 11.52.32 AM.mp4)
 
 
