@@ -44,4 +44,5 @@ You will get User Interface like ![User Interface](leaf_classi_ui.PNG)
 Upload an Image and press predict button to see the result..
 
 
-[image](leaf_classi_ui.PNG)
+[![User Interface](leaf_classi_ui.PNG)](leaf_classi_ui.PNG)
+
